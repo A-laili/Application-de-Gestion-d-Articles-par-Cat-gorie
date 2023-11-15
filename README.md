@@ -68,8 +68,7 @@ En ce qui concerne la documentation de l'API, nous utilisons
 # Recherche des Categories By Id
 ![image](https://github.com/A-laili/Controle_Spring_Boot/assets/147451080/8753e2d6-1add-4845-bc97-521a8a62efa8)
 
-![image](https://github.com/A-laili/Controle_Spring_Boot/assets/147451080/dd83770e-c42c-458b-84c4-f1bd7c40f5e7)# Controle_Spring_Boot
-
+![image](https://github.com/A-laili/Controle_Spring_Boot/assets/147451080/dd83770e-c42c-458b-84c4-f1bd7c40f5e7)
 
 
 

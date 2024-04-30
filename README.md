@@ -1,4 +1,4 @@
-# 'Application de Gestion d'Articles par Catégorie avec Spring-Boot/ Swagger
+# Application de Gestion d'Articles par Catégorie avec Spring-Boot/ Swagger
 
 # Intro
 Ce projet est une application de gestion qui permet de gérer des articles selon leurs categorie.
